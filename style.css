@@ -42,11 +42,14 @@ nav {
     margin: 10px;
 }
 
+a {
+    color: var(--link-color);
+}
+
 nav a {
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
-    color: var(--link-color);
 }
 
 nav a:hover {
@@ -124,7 +127,7 @@ nav a:hover {
 }
 
 ul {
-    margin: 0 15px;
+    margin: 0 20px;
 }
 
 
