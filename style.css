@@ -18,7 +18,7 @@
         --body-color: #000;
         --nav-background-color: #a630d2;
         --main-background-color: #fff;
-        --link-color: #5C1D8B;
+        --link-color: #69b3ff;
 
     }
 }
@@ -122,6 +122,11 @@ nav a:hover {
 .course article p, .course h2 {
     margin: 10px 20px;
 }
+
+ul {
+    margin: 0 15px;
+}
+
 
 @media (max-width: 800px) {
     .left,
